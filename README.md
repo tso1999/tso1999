@@ -1,4 +1,4 @@
-[![MasterHead](https://rerouting.ca/wp-content/uploads/2021/03/Simple-Technology-LinkedIn-Banner.png)](https://rishavchanda.io)
+![MasterHead](https://rerouting.ca/wp-content/uploads/2021/03/Simple-Technology-LinkedIn-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Stephen Onireti</h1>
 <h3 align="center">A passionate Full Stack Developer from Toronto</h3>
